@@ -41,18 +41,24 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 After being directed to the web page, the user can start the game by clicking the start button. Then the user will hear different sounds played by one of the five buttons. After the sound ends, the user will need to enter the corresponding pattern of the picture as the computer displays before. If the user guesses wrong for 3 times, the game will end. Otherwise, the user will be prompted to hear the next sound/image in the sequence and being asked to enter again. User will win the game if she/he guesses all the 8 sounds/images right. During the game process, the user can stop the game anytime by clicking the end button.
 <img src = "https://media.giphy.com/media/0ucte1nd6HnA9OUR6U/giphy.gif" width = 250><br>
+Start Game
 <img src = "https://media.giphy.com/media/twPnG3okwaWzHbEllm/giphy.gif" width = 250><br>
+Follow a Long Sequence
 <img src = "https://media.giphy.com/media/fyOqsTMJBPysGRhk14/giphy.gif" width = 250><br>
+Fail to Play the Game
 <img src = "https://media.giphy.com/media/UFhLX8xxPPDBnXOuQu/giphy.gif" width = 250><br>
+Success in Playing and End Button Shown
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 https://www.w3schools.com/html/
 https://giphy.com/upload/upload
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-I met into a few difficulties when trying the display buttons as images. First, I could not find the right directory of the images I uploaded. I searched in command line for a while and finally figured out that glitch automatically saved our uploaded images as an url, so we can put the url into our project instead of using the images locally.
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it?
+One issue I face wasto adjust the waiting duration of each button. First, it decreases continuously throughout the game as I didn't set it back when we restart the game.
+I also met a few difficulties when trying the display buttons as images. First, I could not find the right directory of the images I uploaded. I searched in command line for a while and finally figured out that glitch automatically saved our uploaded images as an url, so we can put the url into our project instead of using the images locally.
 When I'm trying to add images into the button, I first find it difficult to adjust the image into the same size of the button. Then, I choose to add the image style inside the Botton in html. However, in this way, the bottom style will always remain the same and the user can not differentiate which button is playing the music. As a result, I decided to change the button in the css file so that the bottom can show different images at different state (active or nonactive.) So I searched for this function online and implemented it.
+I also encounter some glichy while uploading thegid to README.me by using quicktime. I searched online on how other people solve the problem then figured I counld use giphy to make a gif url and link it to README.me on github.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 How is React different from the html+css+javascript methodology I'm using for the assignment. What's the comparative advantages for each of them.
