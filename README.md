@@ -40,10 +40,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 After being directed to the web page, the user can start the game by clicking the start button. Then the user will hear different sounds played by one of the five buttons. After the sound ends, the user will need to enter the corresponding pattern of the picture as the computer displays before. If the user guesses wrong for 3 times, the game will end. Otherwise, the user will be prompted to hear the next sound/image in the sequence and being asked to enter again. User will win the game if she/he guesses all the 8 sounds/images right. During the game process, the user can stop the game anytime by clicking the end button.
-<img source = "https://media.giphy.com/media/0ucte1nd6HnA9OUR6U/giphy.gif" width = 250><br>
-<img source = "https://media.giphy.com/media/twPnG3okwaWzHbEllm/giphy.gif" width = 250><br>
-<img source = "https://media.giphy.com/media/fyOqsTMJBPysGRhk14/giphy.gif" width = 250><br>
-<img source = "https://media.giphy.com/media/UFhLX8xxPPDBnXOuQu/giphy.gif" width = 250><br>
+<img src = "https://media.giphy.com/media/0ucte1nd6HnA9OUR6U/giphy.gif" width = 250><br>
+<img src = "https://media.giphy.com/media/twPnG3okwaWzHbEllm/giphy.gif" width = 250><br>
+<img src = "https://media.giphy.com/media/fyOqsTMJBPysGRhk14/giphy.gif" width = 250><br>
+<img src = "https://media.giphy.com/media/UFhLX8xxPPDBnXOuQu/giphy.gif" width = 250><br>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
