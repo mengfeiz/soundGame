@@ -6,7 +6,7 @@ Submitted by: Mengfei Zhang
 
 Time spent: **3** hours spent in total
 
-Link to project: https://materialistic-workable-chevre.glitch.me
+Link to project: https://materialistic-workable-chevre.glitch.me<br/>
 Code to project: https://glitch.com/edit/#!/materialistic-workable-chevre
 
 ## Required Functionality
@@ -41,13 +41,13 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 After being directed to the web page, the user can start the game by clicking the start button. Then the user will hear different sounds played by one of the five buttons. After the sound ends, the user will need to enter the corresponding pattern of the picture as the computer displays before. If the user guesses wrong for 3 times, the game will end. Otherwise, the user will be prompted to hear the next sound/image in the sequence and being asked to enter again. User will win the game if she/he guesses all the 8 sounds/images right. During the game process, the user can stop the game anytime by clicking the end button.
 <img src = "https://media.giphy.com/media/0ucte1nd6HnA9OUR6U/giphy.gif" width = 250><br>
-Start Game
+Start Game<br/>
 <img src = "https://media.giphy.com/media/twPnG3okwaWzHbEllm/giphy.gif" width = 250><br>
-Follow a Long Sequence
+Follow a Long Sequence<br/>
 <img src = "https://media.giphy.com/media/fyOqsTMJBPysGRhk14/giphy.gif" width = 250><br>
-Fail to Play the Game
+Fail to Play the Game<br/>
 <img src = "https://media.giphy.com/media/UFhLX8xxPPDBnXOuQu/giphy.gif" width = 250><br>
-Success in Playing and End Button Shown
+Success in Playing and End Button Shown<br/>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
